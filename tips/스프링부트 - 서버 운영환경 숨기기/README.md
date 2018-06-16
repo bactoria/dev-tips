@@ -4,6 +4,7 @@ spring boot 의 configuration 을 위해 **application.properties** 또는 **app
 허나, 외부에 공개되어서는 안될 정보가 있을 수 있다.
 
 **application.yml**
+
 ![](assets/markdown-img-paste-20180508161119324.png)
 
 여기에 무중단배포할 때 사용하는 운영환경의 설정 (Database 접속정보, 세션저장소 접속정보, 암호화 키 등등)Set1, Set2 이런거.. 여기다가 추가하면 안됨
