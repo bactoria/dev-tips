@@ -1,6 +1,10 @@
 # dev-tips
 
+&nbsp;
+
 ## In my Experience
+
+&nbsp;
 
 * [인텔리제이 단축키 for windows10](./tips/인텔리제이%20단축키%20for%20windows10.md)
 
@@ -14,6 +18,8 @@
 
 ## Document
 
+&nbsp;
+
 * [워라밸? 일과 인생은 조화를 이뤄야 한다.](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=025&aid=0002820183&sid1=001) - 제프 베조스
 
 * [개발자가 블로그를 운영해야 할 이유 ~~지극히 개인적인 경험에 기반합니다.~~](https://taegon.kim/archives/7107) - Taegon Kim
@@ -25,18 +31,22 @@
 
 ## Youtube
 
-* [그만 좀 생각하세요. 그냥 하세요. (베네딕트 컴버배치 읽음)](https://www.youtube.com/watch?v=4P2XeCSHSeA&feature=youtu.be) - Sol LeWitt
+&nbsp;
+
+**그만 좀 생각하세요. 그냥 하세요.** - Sol LeWitt(베네딕트 컴버배치 읽음)
+
+[![](http://img.youtube.com/vi/4P2XeCSHSeA/mqdefault.jpg)]((https://www.youtube.com/watch?v=4P2XeCSHSeA))
 
 &nbsp;
 &nbsp;
 
 ---
 
-## Video
+## Other Video
 
-**슬럼프 극복하는 방법 - 노마드 코더**
+&nbsp;
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnomadcoders%2Fvideos%2F1610925922353370%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+* [슬럼프 극복하는 방법](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnomadcoders%2Fvideos%2F1610925922353370%2F&show_text=0&width=560) - 노마드 코더
 
 &nbsp;
 &nbsp;
