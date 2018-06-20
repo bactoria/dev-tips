@@ -20,9 +20,11 @@
 
 &nbsp;
 
-* [워라밸? 일과 인생은 조화를 이뤄야 한다.](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=025&aid=0002820183&sid1=001) - 제프 베조스
+* [워라밸? 일과 인생은 조화를 이뤄야 한다.](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=025&aid=0002820183&sid1=001) - by 제프 베조스
 
-* [개발자가 블로그를 운영해야 할 이유 ~~지극히 개인적인 경험에 기반합니다.~~](https://taegon.kim/archives/7107) - Taegon Kim
+* [개발자가 블로그를 운영해야 할 이유 ~~(지극히 개인적인 경험에 기반합니다.)~~](https://taegon.kim/archives/7107) - by Taegon Kim
+
+* [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16) - by 김지영
 
 &nbsp;
 &nbsp;
