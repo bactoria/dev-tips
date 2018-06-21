@@ -26,6 +26,8 @@
 
 * [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16) - by 김지영
 
+* [백엔드 개발자를 꿈꾸는 학생개발자에게] (https://d2.naver.com/news/3435170) - by 정상혁
+
 &nbsp;
 &nbsp;
 
