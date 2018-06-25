@@ -14,6 +14,8 @@
 
 * [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
 
+* [Git - git status 입력 시 bad signature Error 발생](./tips/git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
+
 &nbsp;
 &nbsp;
 
