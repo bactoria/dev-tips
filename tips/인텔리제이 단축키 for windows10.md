@@ -4,6 +4,10 @@
 
 `Ctrl + Shift + A`
 
+#### 파일 검색
+
+`(Double) Shift`
+
 #### Class / Method 검색
 
 `Ctrl + N`
