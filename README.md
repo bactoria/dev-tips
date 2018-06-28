@@ -12,6 +12,8 @@
 
 * [스프링부트 - Cannot resolve symbol](./tips/스프링부트%20-%20Cannot%20resolve%20symbol.md)
 
+* [스프링 시큐리티 - Post, Delete 요청시 403 에러](./tips/스프링%20시큐리티%20-%20Post,%20Delete%20요청%20시%20403%20forbiden%20error.md)
+
 * [Node - 버전 변경하기](./tips/Node%20-%20버전%20변경하기/README.md)
 
 * [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
