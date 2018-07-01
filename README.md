@@ -20,6 +20,9 @@
 
 * [Git - git status 입력 시 bad signature Error 발생](./tips/git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
 
+
+* [Python - 깨알노트](./tips/Python%20-%20깨알노트.md)
+
 &nbsp;
 &nbsp;
 
