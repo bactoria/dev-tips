@@ -20,6 +20,7 @@
 
 * [Git - git status 입력 시 bad signature Error 발생](./tips/git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
 
+* [리눅스 - 시작프로그램](./tips/리눅스%20-%20시작프로그램.md)
 
 * [Python - 깨알노트](./tips/Python%20-%20깨알노트.md)
 
