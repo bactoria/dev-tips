@@ -18,7 +18,9 @@
 
 * [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
 
-* [Git - git status 입력 시 bad signature Error 발생](./tips/git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
+* [Git - git status 입력 시 bad signature Error 발생](./tips/Git%20-%20git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
+
+* [Git - commit message 수정](./tips/Git%20-%20commit%20message%20수정.md)
 
 * [리눅스 - 시작프로그램](./tips/리눅스%20-%20시작프로그램.md)
 
