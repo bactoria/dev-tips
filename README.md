@@ -18,6 +18,8 @@
 
 * [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
 
+* [AWS - 과금먹었을때ㅠㅠ, 과금 확인법](./tips/AWS%20-%20과금먹었을때ㅠㅠ,%20과금%20확인법.md)
+
 * [Git - git status 입력 시 bad signature Error 발생](./tips/Git%20-%20git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
 
 * [Git - commit message 수정](./tips/Git%20-%20commit%20message%20수정.md)
