@@ -31,6 +31,15 @@
 &nbsp;
 &nbsp;
 
+## Errors
+
+* [Nuxt.js](./tips/errors/Nuxt.js.md)
+
+* [Spring Boot](./tips/errors/Spring%20Boot.md)
+
+&nbsp;
+&nbsp;
+
 ## Document
 
 &nbsp;
