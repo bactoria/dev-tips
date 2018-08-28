@@ -2,9 +2,50 @@
 
 &nbsp;
 
+
+## Errors
+
+* [Nuxt.js](./tips/errors/Nuxt.js.md)
+
+* [Spring Boot](./tips/errors/Spring%20Boot.md)
+
+&nbsp;
+
+---
+
 ## In my Experience
 
 &nbsp;
+
+### Linux
+
+* [Linux - 시작프로그램](./tips/리눅스%20-%20시작프로그램.md)
+
+* [Linux - ps](./tips/리눅스%20-%20ps/README.md)
+
+* [Linux - memory](./tips/리눅스%20-%20memory/README.md)
+
+&nbsp;
+
+### AWS
+
+
+* [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
+
+* [AWS - 과금먹었을때ㅠㅠ, 과금 확인법](./tips/AWS%20-%20과금먹었을때ㅠㅠ,%20과금%20확인법.md)
+
+&nbsp;
+
+### Git
+
+
+* [Git - git status 입력 시 bad signature Error 발생](./tips/Git%20-%20git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
+
+* [Git - commit message 수정](./tips/Git%20-%20commit%20message%20수정.md)
+
+&nbsp;
+
+### Java
 
 * [인텔리제이 단축키 for windows10](./tips/인텔리제이%20단축키%20for%20windows10.md)
 
@@ -14,35 +55,23 @@
 
 * [스프링 시큐리티 - Post, Delete 요청시 403 에러](./tips/스프링%20시큐리티%20-%20Post,%20Delete%20요청%20시%20403%20forbiden%20error.md)
 
+&nbsp;
+
+### Javascript
+
 * [Node - 버전 변경하기](./tips/Node%20-%20버전%20변경하기/README.md)
 
-* [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
+&nbsp;
 
-* [AWS - 과금먹었을때ㅠㅠ, 과금 확인법](./tips/AWS%20-%20과금먹었을때ㅠㅠ,%20과금%20확인법.md)
-
-* [Git - git status 입력 시 bad signature Error 발생](./tips/Git%20-%20git%20status%20입력%20시%20bad%20signature%20Error%20발생.md)
-
-* [Git - commit message 수정](./tips/Git%20-%20commit%20message%20수정.md)
-
-* [리눅스 - 시작프로그램](./tips/리눅스%20-%20시작프로그램.md)
-
-* [Linux - ps](./tips/리눅스%20-%20ps/README.md)
-
-* [Linux - memory](./tips/리눅스%20-%20memory/README.md)
+### Python
 
 * [Python - 깨알노트](./tips/Python%20-%20깨알노트.md)
 
-&nbsp;
-&nbsp;
-
-## Errors
-
-* [Nuxt.js](./tips/errors/Nuxt.js.md)
-
-* [Spring Boot](./tips/errors/Spring%20Boot.md)
 
 &nbsp;
 &nbsp;
+
+---
 
 ## Document
 
