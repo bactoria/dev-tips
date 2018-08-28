@@ -26,6 +26,8 @@
 
 * [리눅스 - 시작프로그램](./tips/리눅스%20-%20시작프로그램.md)
 
+* [Linux - ps](./tips/리눅스%20-%20ps/README.md)
+
 * [Python - 깨알노트](./tips/Python%20-%20깨알노트.md)
 
 &nbsp;
