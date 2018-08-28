@@ -19,11 +19,11 @@
 
 ### Linux
 
-* [Linux - 시작프로그램](./tips/리눅스%20-%20시작프로그램.md)
+* [Linux - 시작프로그램](./tips/Linux%20-%20시작프로그램.md)
 
-* [Linux - ps](./tips/리눅스%20-%20ps/README.md)
+* [Linux - ps](./tips/Linux%20-%20ps/README.md)
 
-* [Linux - memory](./tips/리눅스%20-%20memory/README.md)
+* [Linux - memory](./tips/Linux%20-%20memory/README.md)
 
 &nbsp;
 
