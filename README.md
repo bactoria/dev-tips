@@ -28,6 +28,8 @@
 
 * [Linux - ps](./tips/리눅스%20-%20ps/README.md)
 
+* [Linux - memory](./tips/리눅스%20-%20memory/README.md)
+
 * [Python - 깨알노트](./tips/Python%20-%20깨알노트.md)
 
 &nbsp;
