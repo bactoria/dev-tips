@@ -29,7 +29,7 @@
 
 ### AWS
 
-* [AWS - EC2 생성부터 SSH 연결 까지](./tips/AWS%20EC2%20생성부터%20SSH%20연결%20까지.md)
+* [AWS - EC2 생성부터 SSH 연결 까지](./tips/AWS%20-%20EC2%20생성부터%20SSH%20연결%20까지.md)
 
 * [AWS - 인스턴스 시작 오류](./tips/AWS%20-%20인스턴스%20시작%20오류/README.md)
 
